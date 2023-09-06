@@ -1,0 +1,2 @@
+# RestaurantManagApp
+Simple web application
